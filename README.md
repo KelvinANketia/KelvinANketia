@@ -5,10 +5,10 @@
 
 @KelvinANketia - Just a simple chill guy making websites for a living 😎.
 
-- **Kelvin Amankwah Nketia**
-- 👨🏾‍💻 I'm a **Full Stack Web Developer**  
-- 🔭 I’m currently working on a few fun and explosive projects 🥳🤭 (Stay tuned 😉)  
-- 🌱 I’m **ever learning - ever growing**  
+- 🥷🏾 **Kelvin Amankwah Nketia**
+- 👨🏾‍💻 **Full Stack Web Developer**  
+- 🔭 Currently working on a few fun and explosive projects (Stay tuned 😉)  
+- 🌱 **Ever learning - Ever growing** is my policy
 - 💬 Ask me about **Christianity** (I'm a Bible teacher as well)  
 - 📫 **Email:** [kelvinkwabenanketia@gmail.com](mailto:kelvinkwabenanketia@gmail.com) (Get in touch and share some ideas)  
 - 😄 **Pronouns:** He/Him  
