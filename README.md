@@ -2,7 +2,7 @@
 <h4 align="center">Web Developer and UI/UX Expertise</h4>
 
 <br>
-<p align="center">@KelvinANketia - Just a simple chill guy making websites for a living 😎.</p>
+<p align="center">**@KelvinANketia** - Just a simple chill guy making websites for a living 😎.</p>
 
 <br>
 
