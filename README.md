@@ -84,12 +84,12 @@ const kelvin = {
 ## 🔥 Recent Projects
 
 <div align="center">
-  <a href="https://github.com/KelvinANketia/project-name">
+  <a href="https://github.com/KelvinANketia/MyPersonalProjects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinANketia&repo=project-name&theme=radical" />
   </a>
-  <a href="https://github.com/KelvinANketia/another-project">
+<!--   <a href="https://github.com/KelvinANketia/another-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KelvinANketia&repo=another-project&theme=radical" />
-  </a>
+  </a> -->
 </div>
 
 <br>
