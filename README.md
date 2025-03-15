@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋🏾, I'm Kelvin Amankwah Nketia</h1>
+<h4 align="center">WEB DEVELOPER and UI/UX EXPERTISE</h4>
 
-<h3 align="center">WEB DEVELOPER and UI/UX EXPERTISE</h3>
-
+<br>
 
 Hello, I am **Kelvin Amankwah Nketia**, a simplist beginner looking to fight my way to the top of the web dev tree.
 
