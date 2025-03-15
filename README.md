@@ -38,6 +38,8 @@ As **@KelvinANketia**, I'm a passionate Full Stack Developer with an eye for des
   </tr>
 </table>
 
+<br>
+
 ## 🚀 Tech Journey
 
 ```javascript
@@ -49,6 +51,8 @@ const kelvin = {
   funFact: 'I debug with console.log() and prayer - both are equally effective!'
 };
 ```
+
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -67,11 +71,15 @@ const kelvin = {
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+<br>
+
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinANketia&theme=radical" alt="GitHub Streak" />
 </div>
+
+<br>
 
 ## 🔥 Recent Projects
 
@@ -84,12 +92,16 @@ const kelvin = {
   </a>
 </div>
 
+<br>
+
 ## 💡 My Development Philosophy
 
 - **Clean Code**: Writing maintainable and readable code
 - **User-Centric Design**: Creating interfaces with the user in mind
 - **Continuous Learning**: Always improving and adapting
 - **Problem-Solving**: Finding elegant solutions to complex problems
+
+<br>
 
 ## 🎯 Current Focus
 
