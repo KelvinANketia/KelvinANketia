@@ -9,7 +9,7 @@
 <div>
   
   - 🥷🏾 **Full name:** Kelvin Amankwah Nketia  
-  - 👨🏾‍💻 **Job:** Full Stack Web Developer // UI/UX Designer  
+  - 👨🏾‍💻 **Job:** Full Stack Web Developer and UI/UX Designer  
   - 🔭 **Status:** Currently working on a few fun and explosive projects (Stay tuned 😉)  
   - 🌱 **Policy:** Ever learning - Ever growing  
   - 🐾 **Others:** *Christianity* | *Faith* (I'm a Bible teacher as well)  
