@@ -25,25 +25,6 @@
 
 <br>
 
-## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KelvinANketia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinANketia&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KelvinANketia&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<br>
-
----
-
-<br>
-
 ## 🚀 **Tech Stack:**
 
 <p align="center">
@@ -55,4 +36,23 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<br>
+
+---
+
+<br>
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KelvinANketia&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinANketia&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KelvinANketia&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
