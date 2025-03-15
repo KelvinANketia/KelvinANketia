@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋🏾, Kev here 😎</h1>
+<h1 align="center">Hi there 👋🏾, Kev here</h1>
 <h4 align="center">Web Developer and UI/UX Expertise </h4>
 
 <br>
 
-Hello, I am **Kelvin Amankwah Nketia**, a simplist beginner looking to fight my way to the top of the web dev tree.
+Full name: **Kelvin Amankwah Nketia**, simple chill guy making websites for a living 😎.
 
 - 👋🏾 Heyya, I'm @KelvinANketia  
 - 👨🏾‍💻 I'm a **Full Stack Web Developer**  
