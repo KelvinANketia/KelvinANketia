@@ -5,11 +5,13 @@
 
 @KelvinANketia - Just a simple chill guy making websites for a living 😎.
 
-- 🥷🏾 **Kelvin Amankwah Nketia**
-- 👨🏾‍💻 **Full Stack Web Developer**  
-- 🔭 Currently working on a few fun and explosive projects (Stay tuned 😉)  
-- 🌱 **Ever learning - Ever growing** is my policy
-- 💬 Ask me about **Christianity** (I'm a Bible teacher as well)  
-- 📫 **Email:** [kelvinkwabenanketia@gmail.com](mailto:kelvinkwabenanketia@gmail.com) (Get in touch and share some ideas)  
-- 😄 **Pronouns:** He/Him  
-- ⚡ **Fun fact:** The Earth is round 🙂  
+<br>
+
+- 🥷🏾 Full name: **Kelvin Amankwah Nketia**
+- 👨🏾‍💻 Job: **Full Stack Web Developer**  
+- 🔭 Status: Currently working on a few fun and explosive projects (Stay tuned 😉)  
+- 🌱 Policu: **Ever learning - Ever growing** 
+- 🐾 Others: *Christianity* *Faith* (I'm a Bible teacher as well)  
+- 📫 Contact: **Email:** [kelvinkwabenanketia@gmail.com](mailto:kelvinkwabenanketia@gmail.com) (Hit me up let's share some ideas)  
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: The Earth is round 🙂  
