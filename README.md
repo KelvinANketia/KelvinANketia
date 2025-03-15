@@ -1,6 +1,6 @@
-## Hi there 👋🏾, I'm Kelvin Amankwah Nketia
+# Hi there 👋🏾, I'm Kelvin Amankwah Nketia
 
-# WEB DEVELOPER and UI/UX EXPERTISE
+## WEB DEVELOPER and UI/UX EXPERTISE
 
 <!--
 **KelvinANketia/KelvinANketia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
