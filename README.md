@@ -38,6 +38,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=KelvinANketia&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KelvinANketia&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
 <br>
 
 ---
