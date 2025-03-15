@@ -20,7 +20,9 @@
 </div>
 
 <br>
+
 ---
+
 <br>
 
 ## 📊 **GitHub Stats**
@@ -37,7 +39,9 @@
 </p>
 
 <br>
+
 ---
+
 <br>
 
 ## 🚀 **Tech Stack:**
