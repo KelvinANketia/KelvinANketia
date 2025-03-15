@@ -13,5 +13,5 @@
 - 🌱 **Policy:** Ever learning - Ever growing
 - 🐾 **Others:** *Christianity* *Faith* (I'm a Bible teacher as well)  
 - 📫 **Contact:** **Email:** [kelvinkwabenanketia@gmail.com](mailto:kelvinkwabenanketia@gmail.com) (Hit me up let's share some ideas)  
-- 😄 **Pronouns:** **He/Him**
-- ⚡ Fun fact: The Earth is round 🙂  
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** The Earth is round 🙂  
