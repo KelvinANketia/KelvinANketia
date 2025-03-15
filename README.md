@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋🏾, I'm Kelvin Amankwah Nketia</h1>
-<h4 align="center">WEB DEVELOPER and UI/UX EXPERTISE</h4>
+<h1 align="center">Hi there 👋🏾, Kev here 🤭</h1>
+<h4 align="center">Web Developer and UI/UX Expertise </h4>
 
 <br>
 
