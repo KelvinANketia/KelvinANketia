@@ -3,9 +3,9 @@
 
 <br>
 
-Full name: **Kelvin Amankwah Nketia**, simple chill guy making websites for a living 😎.
+@KelvinANketia - Just a simple chill guy making websites for a living 😎.
 
-- 👋🏾 Heyya, I'm @KelvinANketia  
+- **Kelvin Amankwah Nketia**
 - 👨🏾‍💻 I'm a **Full Stack Web Developer**  
 - 🔭 I’m currently working on a few fun and explosive projects 🥳🤭 (Stay tuned 😉)  
 - 🌱 I’m **ever learning - ever growing**  
