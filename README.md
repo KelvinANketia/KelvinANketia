@@ -1,11 +1,12 @@
 <h1 align="center">Hi there 👋🏾, Kev here!</h1>
 <h4 align="center">Web Developer and UI/UX Expertise</h4>
 
+<br>
 <p align="center">@KelvinANketia - Just a simple chill guy making websites for a living 😎.</p>
 
 <br>
 
-<div align="center">
+<div>
   
   - 🥷🏾 **Full name:** Kelvin Amankwah Nketia  
   - 👨🏾‍💻 **Job:** Full Stack Web Developer  
