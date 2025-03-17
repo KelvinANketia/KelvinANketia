@@ -33,7 +33,6 @@ Hi, I'm **[@KelvinANKetia](https://github.com/KelvinANKetia)**, a passionate **F
 - 📚 **Teaching** the Bible and sharing knowledge & faith  
 - 🌱 **Constantly learning** new technologies  
 
-
 <br>
 
 ## 🚀 Tech Journey
