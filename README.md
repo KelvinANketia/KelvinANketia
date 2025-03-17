@@ -108,8 +108,7 @@ const kelvin = {
 ## 🎯 Current Focus
 
 ```
-Loading next exciting project...
-███████████░░░░░ 80%
+
 ```
 
 <details>
