@@ -78,8 +78,6 @@ const kelvin = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KelvinANketia&theme=radical" alt="GitHub Streak" />
 </div>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KelvinANKetia&theme=react-dark)
-
 <br>
 
 ## 🔥 Recent Projects
