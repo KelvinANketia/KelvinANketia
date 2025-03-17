@@ -33,7 +33,7 @@ As **@KelvinANketia**, I'm a passionate Full Stack Developer with an eye for des
       </ul>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinANketia&layout=compact&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinANketia&show_icons=true&theme=radical&langs_count=6" alt="Top Languages" />
     </td>
   </tr>
 </table>
