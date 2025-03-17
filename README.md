@@ -23,7 +23,7 @@ As **@KelvinANketia**, I'm a passionate Full Stack Developer with an eye for des
 
 <br/>
 
-<div style="background-color: rgba(15, 23, 42, 0.6); border-radius: 8px; padding: 20px; margin-top: 20px;">
+<div background-color="rgba(15, 23, 42, 0.6)" border-radius="8px" padding="20px" margin-top="20px">
       <ul style="list-style-type: none; padding: 0; margin: 0;">
         <li style="padding: 12px 0; display: flex; align-items: center; border-bottom: 1px solid #1e293b;">
           <span style="font-size: 22px; margin-right: 15px;">🛠️</span>
