@@ -21,6 +21,8 @@
 
 As **@KelvinANketia**, I'm a passionate Full Stack Developer with an eye for design. I believe in creating web experiences that are not just functional but beautiful and intuitive.
 
+<br/>
+
 <table align="center">
   <tr>
     <td>
