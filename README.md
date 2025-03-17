@@ -23,22 +23,30 @@ As **@KelvinANketia**, I'm a passionate Full Stack Developer with an eye for des
 
 <br/>
 
-<table align="center">
-  <tr>
-    <td>
-      <ul>
-        <li>🛠️ Building responsive and accessible web applications</li>
-        <li>🎨 Crafting beautiful UI/UX experiences</li>
-        <li>🔭 Working on exciting projects that push boundaries</li>
-        <li>📚 Bible teacher sharing knowledge and faith</li>
-        <li>🌱 Constantly learning new technologies</li>
+<div style="background-color: rgba(15, 23, 42, 0.6); border-radius: 8px; padding: 20px; margin-top: 20px;">
+      <ul style="list-style-type: none; padding: 0; margin: 0;">
+        <li style="padding: 12px 0; display: flex; align-items: center; border-bottom: 1px solid #1e293b;">
+          <span style="font-size: 22px; margin-right: 15px;">🛠️</span>
+          <span>Building responsive and accessible web applications</span>
+        </li>
+        <li style="padding: 12px 0; display: flex; align-items: center; border-bottom: 1px solid #1e293b;">
+          <span style="font-size: 22px; margin-right: 15px;">🎨</span>
+          <span>Crafting beautiful UI/UX experiences</span>
+        </li>
+        <li style="padding: 12px 0; display: flex; align-items: center; border-bottom: 1px solid #1e293b;">
+          <span style="font-size: 22px; margin-right: 15px;">🔭</span>
+          <span>Working on exciting projects that push boundaries</span>
+        </li>
+        <li style="padding: 12px 0; display: flex; align-items: center; border-bottom: 1px solid #1e293b;">
+          <span style="font-size: 22px; margin-right: 15px;">📚</span>
+          <span>Bible teacher sharing knowledge and faith</span>
+        </li>
+        <li style="padding: 12px 0; display: flex; align-items: center;">
+          <span style="font-size: 22px; margin-right: 15px;">🌱</span>
+          <span>Constantly learning new technologies</span>
+        </li>
       </ul>
-<!--     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinANketia&layout=compact&theme=radical&count_private=true" />
-    </td> -->
-  </tr>
-</table>
+    </div>
 
 <br>
 
