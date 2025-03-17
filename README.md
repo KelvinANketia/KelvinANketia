@@ -23,6 +23,10 @@
 
 Hi, I'm **[@KelvinANKetia](https://github.com/KelvinANKetia)**, a passionate **Full Stack Developer** with an eye for design. I believe in creating web experiences that are not just functional but also **beautiful and intuitive**.
 
+I specialize in building modern web applications, focusing on clean code, accessibility, and seamless user experience. My goal is to bridge the gap between design and development, ensuring that every product I work on is both visually stunning and highly performant.
+
+Beyond coding, I'm also a Bible teacher, passionate about sharing faith and knowledge. I love learning new technologies, tackling exciting projects, and continuously growing in both my technical and personal journey.
+
 <br/>
 
 ## 🔥 What I Do:
