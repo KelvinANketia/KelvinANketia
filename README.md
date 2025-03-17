@@ -21,7 +21,7 @@
 
 As **@KelvinANketia**, I'm a passionate Full Stack Developer with an eye for design. I believe in creating web experiences that are not just functional but beautiful and intuitive.
 
-<table>
+<table align="center">
   <tr>
     <td>
       <ul>
@@ -31,10 +31,10 @@ As **@KelvinANketia**, I'm a passionate Full Stack Developer with an eye for des
         <li>📚 Bible teacher sharing knowledge and faith</li>
         <li>🌱 Constantly learning new technologies</li>
       </ul>
-    </td>
+<!--     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinANketia&layout=compact&theme=radical&count_private=true" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
