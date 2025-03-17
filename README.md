@@ -19,11 +19,14 @@
 
 > *"Ever learning - Ever growing"*
 
+<br/>
+
 Hi, I'm **[@KelvinANKetia](https://github.com/KelvinANKetia)**, a passionate **Full Stack Developer** with an eye for design. I believe in creating web experiences that are not just functional but also **beautiful and intuitive**.
 
 <br/>
 
-### 🔥 What I Do:
+## 🔥 What I Do:
+
 - 🛠 **Building** responsive and accessible web applications  
 - 🎨 **Crafting** beautiful **UI/UX** experiences  
 - 🔭 **Working** on exciting projects that push boundaries  
