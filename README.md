@@ -80,6 +80,14 @@ const kelvin = {
 
 <br>
 
+## 📈 GitHub Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KelvinANketia&theme=react-dark&hide_border=true&area=true&custom_title=Kelvin's%20Contribution%20Graph" alt="GitHub Activity Graph" />
+</div>
+
+<br>
+
 ## 🔥 Recent Projects
 
 <div align="center">
