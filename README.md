@@ -28,12 +28,14 @@ I care about the parts that show up after launch — migrations that can be roll
 
 ## Selected Work
 
-### CSIR Stores — Inventory Management System
+### Inventory Management System — Government Research Institute
 **Sole engineer · 613 commits · Express 5 · MongoDB · Redis**
 
-An inventory and requisition platform for the Stores department of the CSIR, Ghana's Council for Scientific and Industrial Research. It covers requisitions and approvals, stock checkouts, goods-received notes, supplier and invoice handling, non-conformance reporting, and departmental reporting — served to two distinct portals over one API.
+An inventory and requisition platform for the stores department of a government research institute. It covers requisitions and approvals, stock checkouts, goods-received notes, supplier and invoice handling, non-conformance reporting, and departmental reporting — served to two distinct portals over one API.
 
 I designed and built all of it: 24 data models, 22 API route modules, and 23 services. Authentication runs on WebAuthn passkeys and TOTP two-factor over HttpOnly sessions with CSRF protection. Uploads are virus-scanned through ClamAV, requests are rate-limited in Redis, and every mutation writes to a tamper-evident audit chain. The front end is a vanilla-JS progressive web app with offline support and no build step, which keeps deployment trivial on constrained infrastructure.
+
+**→ [Read the full engineering case study](https://github.com/KelvinANketia/inventory-system-case-study)** — the offline-write idempotency design, the tamper-evident audit chain, and the caching tiers, with diagrams.
 
 Behind the API: idempotency middleware, request coalescing, tiered caching, query deduplication and profiling, and server-sent events for live updates. Schema changes ship as 16 numbered migrations, each with a dry-run and a rollback path. Quality is enforced by 31 test suites, Playwright end-to-end runs with axe accessibility checks, a coverage floor in CI, gitleaks secret scanning, and documented OWASP ZAP penetration scans.
 
