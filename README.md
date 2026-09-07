@@ -105,6 +105,30 @@ The central identity and access management service for an estate of roughly 100 
 
 <br/>
 
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KelvinANketia&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&card_width=450" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=KelvinANketia&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinANketia&layout=compact&langs_count=8&theme=radical&hide_border=true&hide=html,css" alt="Top Languages" />
+</div>
+
+<br/>
+
+## Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KelvinANketia&theme=react-dark&hide_border=true&area=true&custom_title=Kelvin's%20Contribution%20Graph" alt="Contribution Graph" />
+</div>
+
+<br/>
+
 ## How I Work
 
 ```javascript
@@ -134,3 +158,13 @@ const kelvin = {
   </blockquote>
   <p>Alongside engineering I teach the Bible, and I care about sharing what I learn — in both directions.</p>
 </details>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KelvinANketia&label=Profile%20views&color=6A5ACD&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&fontSize=90" alt="" />
+</div>
