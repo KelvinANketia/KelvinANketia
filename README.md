@@ -37,10 +37,10 @@ I designed and built all of it: 24 data models, 22 API route modules, and 23 ser
 
 Behind the API: idempotency middleware, request coalescing, tiered caching, query deduplication and profiling, and server-sent events for live updates. Schema changes ship as 16 numbered migrations, each with a dry-run and a rollback path. Quality is enforced by 31 test suites, Playwright end-to-end runs with axe accessibility checks, a coverage floor in CI, gitleaks secret scanning, and documented OWASP ZAP penetration scans.
 
-### GSL Human Resource Management Platform
+### Enterprise Human Resource Management Platform
 **Lead contributor, both repositories · 991 commits · Django 6 · DRF · React · TypeScript**
 
-An enterprise HR platform for the Ghana School of Law's CLET programme, built by a team of eleven. I'm the top committer on both halves — 479 of the backend's commits and 512 of the front end's.
+An enterprise HR platform for a legal education institution, built by a team of eleven. I'm the top committer on both halves — 479 of the backend's commits and 512 of the front end's.
 
 The API is Django 6 and Django REST Framework over PostgreSQL, with Celery and celery-beat for scheduled work and a Kafka producer driven by an outbox pattern for reliable event publishing. It spans 27 domain applications including payroll, recruitment and applicant tracking, interviews, attendance, leave, performance, learning, compliance and audit. Payslips, contracts and org-chart exports render through WeasyPrint and ReportLab; payroll and analytics export to XLSX via openpyxl.
 
@@ -48,7 +48,7 @@ The front end is a Turborepo and pnpm monorepo — two applications over nine sh
 
 Both repositories run SonarQube and Trivy image scanning in CI, with Ruff and pytest on the API, Vitest, Testing Library and Playwright on the front end, and Husky, lint-staged and commitlint on the way in. Dependencies are pinned with the reasoning written inline — a Django floor that excludes a QuerySet SQL-injection advisory, a Pillow floor that excludes a decompression-bomb fix.
 
-### IAM 3.0 and the CLET Service Estate
+### Identity & Access Management and the Wider Service Estate
 **Core contributor · 75 commits · Django · Celery**
 
 The central identity and access management service for an estate of roughly 100 repositories, where I'm the third of twelve contributors. Alongside it I've worked across the surrounding services — communications, payments, API integration and the Kubernetes platform tooling — which is where I've learned how systems behave once they're distributed across teams rather than owned by one.
