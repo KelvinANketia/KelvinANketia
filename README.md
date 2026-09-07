@@ -20,14 +20,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/~3%2C000-commits-1F5D3F?style=flat-square&labelColor=222" alt="commits" />
-  <img src="https://img.shields.io/badge/33-repositories-1F5D3F?style=flat-square&labelColor=222" alt="repositories" />
-  <img src="https://img.shields.io/badge/613-commit_solo_build-1F5D3F?style=flat-square&labelColor=222" alt="solo build" />
-  <img src="https://img.shields.io/badge/top_committer-team_of_11-1F5D3F?style=flat-square&labelColor=222" alt="top committer" />
-  <img src="https://img.shields.io/badge/Accra-Ghana-6A5ACD?style=flat-square&labelColor=222" alt="Accra, Ghana" />
-</div>
-
 <br/>
 
 ## 👨🏾‍💻 About
@@ -36,7 +28,7 @@
 
 Full stack engineer in Accra, Ghana. I build line-of-business systems end to end — Django/DRF and Node/Express services, React and TypeScript front ends, and the Docker, CI and test tooling that keeps them shippable.
 
-Most of my work is in private client and employer repositories, so this page describes the systems rather than linking to source. Across the last two years that's **~3,000 commits over 33 repositories**: an inventory and requisition system I built single-handed for a national research institute, and an enterprise HR platform where I'm the leading contributor on both the API and the front end.
+Most of my work is in private client and employer repositories, so this page describes the systems rather than linking to source. Recent work includes an inventory and requisition platform I designed and built single-handed for a national research institute, and an enterprise HR platform where I'm the leading contributor on both the API and the front end.
 
 I care about the parts that show up after launch — migrations that can be rolled back, audit trails that hold up, dependencies pinned for a reason, and tests that catch the regression before the client does.
 
@@ -47,7 +39,7 @@ I also work with AI coding agents as a normal part of delivery: agent context an
 ## 🧱 Selected Work
 
 ### CSIR Stores — Inventory Management System
-**Sole engineer · 613 commits · Express 5 · MongoDB · Redis**
+**Sole engineer · Express 5 · MongoDB · Redis**
 
 An inventory and requisition platform for the Stores department of the CSIR, Ghana's Council for Scientific and Industrial Research. It covers requisitions and approvals, stock checkouts, goods-received notes, supplier and invoice handling, non-conformance reporting, and departmental reporting — served to two distinct portals over one API.
 
@@ -60,9 +52,9 @@ Behind the API: idempotency middleware, request coalescing, tiered caching, quer
 > **📖 Full engineering case study** — the offline-write idempotency design, the audit hash-chain, and the caching tiers, with diagrams and the trade-offs I'd revisit: **[inventory-system-case-study](https://github.com/KelvinANketia/inventory-system-case-study)**
 
 ### Enterprise Human Resource Management Platform
-**Lead contributor, both repositories · 991 commits · Django 6 · DRF · React · TypeScript**
+**Lead contributor, both repositories · Django 6 · DRF · React · TypeScript**
 
-An enterprise HR platform for a legal education institution, built by a team of eleven. I'm the top committer on both halves — 479 of the backend's commits and 512 of the front end's.
+An enterprise HR platform for a legal education institution, built by a team of eleven. I lead development on both halves — the Django API and the React front end.
 
 The API is Django 6 and Django REST Framework over PostgreSQL, with Celery and celery-beat for scheduled work and a Kafka producer driven by an outbox pattern for reliable event publishing. It spans 27 domain applications including payroll, recruitment and applicant tracking, interviews, attendance, leave, performance, learning, compliance and audit. Payslips, contracts and org-chart exports render through WeasyPrint and ReportLab; payroll and analytics export to XLSX via openpyxl.
 
@@ -71,9 +63,9 @@ The front end is a Turborepo and pnpm monorepo — two applications over nine sh
 Both repositories run SonarQube and Trivy image scanning in CI, with Ruff and pytest on the API, Vitest, Testing Library and Playwright on the front end, and Husky, lint-staged and commitlint on the way in. Dependencies are pinned with the reasoning written inline — a Django floor that excludes a QuerySet SQL-injection advisory, a Pillow floor that excludes a decompression-bomb fix.
 
 ### Identity & Access Management and the Wider Service Estate
-**Core contributor · 75 commits · Django · Celery**
+**Core contributor · Django · Celery**
 
-The central identity and access management service for an estate of roughly 100 repositories, where I'm the third of twelve contributors. Alongside it I've worked across the surrounding services — communications, payments, API integration and the Kubernetes platform tooling — which is where I've learned how systems behave once they're distributed across teams rather than owned by one.
+The central identity and access management service for an estate of roughly 100 repositories. Alongside it I've worked across the surrounding services — communications, payments, API integration and the Kubernetes platform tooling — which is where I've learned how systems behave once they're distributed across teams rather than owned by one.
 
 <br/>
 
