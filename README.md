@@ -1,32 +1,50 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header" alt="" />
+</div>
+
 <h1 align="center">Kelvin Amankwah Nketia</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=520&lines=Full+Stack+Engineer;Django+%2B+DRF+%7C+Node+%2B+Express;React+%2B+TypeScript;Security-minded+delivery" alt="Full Stack Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=540&lines=Full+Stack+Engineer;Django+%C2%B7+DRF+%C2%B7+Node+%C2%B7+Express;React+%C2%B7+TypeScript;Security-minded+delivery;Bible+teacher" alt="Full Stack Engineer" />
 </p>
 
 <div align="center">
   <a href="mailto:kelvinkwabenanketia@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/KelvinANketia">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/kelvinanketia/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- Add LinkedIn here — recruiters look for it first -->
+  <a href="https://github.com/KelvinANketia/inventory-system-case-study">
+    <img src="https://img.shields.io/badge/Read_the_case_study-0E5C67?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Case study" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/~3%2C000-commits-1F5D3F?style=flat-square&labelColor=222" alt="commits" />
+  <img src="https://img.shields.io/badge/33-repositories-1F5D3F?style=flat-square&labelColor=222" alt="repositories" />
+  <img src="https://img.shields.io/badge/613-commit_solo_build-1F5D3F?style=flat-square&labelColor=222" alt="solo build" />
+  <img src="https://img.shields.io/badge/top_committer-team_of_11-1F5D3F?style=flat-square&labelColor=222" alt="top committer" />
+  <img src="https://img.shields.io/badge/Accra-Ghana-6A5ACD?style=flat-square&labelColor=222" alt="Accra, Ghana" />
 </div>
 
 <br/>
 
-## About
+## 👨🏾‍💻 About
+
+> *"Ever learning — ever growing."*
 
 Full stack engineer in Accra, Ghana. I build line-of-business systems end to end — Django/DRF and Node/Express services, React and TypeScript front ends, and the Docker, CI and test tooling that keeps them shippable.
 
-Most of my work is in private client and employer repositories, so this page describes the systems rather than linking to source. Across the last two years that's **~3,000 commits over 33 repositories**: an inventory management system I built single-handed for a national research institute, and an enterprise HR platform where I'm the leading contributor on both the API and the front end.
+Most of my work is in private client and employer repositories, so this page describes the systems rather than linking to source. Across the last two years that's **~3,000 commits over 33 repositories**: an inventory and requisition system I built single-handed for a national research institute, and an enterprise HR platform where I'm the leading contributor on both the API and the front end.
 
 I care about the parts that show up after launch — migrations that can be rolled back, audit trails that hold up, dependencies pinned for a reason, and tests that catch the regression before the client does.
 
+I also work with AI coding agents as a normal part of delivery: agent context and project standards live in the repository (`AGENTS.md`, `CLAUDE.md`, project skill files) so agents and teammates build from the same brief — and the engineer stays accountable for the result.
+
 <br/>
 
-## Selected Work
+## 🧱 Selected Work
 
 ### CSIR Stores — Inventory Management System
 **Sole engineer · 613 commits · Express 5 · MongoDB · Redis**
@@ -36,6 +54,10 @@ An inventory and requisition platform for the Stores department of the CSIR, Gha
 I designed and built all of it: 24 data models, 22 API route modules, and 23 services. Authentication runs on WebAuthn passkeys and TOTP two-factor over HttpOnly sessions with CSRF protection. Uploads are virus-scanned through ClamAV, requests are rate-limited in Redis, and every mutation writes to a tamper-evident audit chain. The front end is a vanilla-JS progressive web app with offline support and no build step, which keeps deployment trivial on constrained infrastructure.
 
 Behind the API: idempotency middleware, request coalescing, tiered caching, query deduplication and profiling, and server-sent events for live updates. Schema changes ship as 16 numbered migrations, each with a dry-run and a rollback path. Quality is enforced by 31 test suites, Playwright end-to-end runs with axe accessibility checks, a coverage floor in CI, gitleaks secret scanning, and documented OWASP ZAP penetration scans.
+
+
+
+> **📖 Full engineering case study** — the offline-write idempotency design, the audit hash-chain, and the caching tiers, with diagrams and the trade-offs I'd revisit: **[inventory-system-case-study](https://github.com/KelvinANketia/inventory-system-case-study)**
 
 ### Enterprise Human Resource Management Platform
 **Lead contributor, both repositories · 991 commits · Django 6 · DRF · React · TypeScript**
@@ -55,7 +77,7 @@ The central identity and access management service for an estate of roughly 100 
 
 <br/>
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 <p>
@@ -105,7 +127,7 @@ The central identity and access management service for an estate of roughly 100 
 
 <br/>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=KelvinANketia&theme=radical&hide_border=true" alt="GitHub Streak" />
@@ -113,7 +135,7 @@ The central identity and access management service for an estate of roughly 100 
 
 <br/>
 
-## How I Work
+## 💡 How I Work
 
 ```javascript
 const kelvin = {
