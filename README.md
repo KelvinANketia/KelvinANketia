@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header" alt="" />
-</div>
-
 <h1 align="center">Kelvin Amankwah Nketia</h1>
 
 <p align="center">
@@ -14,9 +10,6 @@
   </a>
   <a href="https://www.linkedin.com/in/kelvinanketia/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/KelvinANketia/inventory-system-case-study">
-    <img src="https://img.shields.io/badge/Read_the_case_study-0E5C67?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Case study" />
   </a>
 </div>
 
