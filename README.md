@@ -29,39 +29,6 @@ I also work with AI coding agents as a normal part of delivery: agent context an
 
 <br/>
 
-## 🧱 Selected Work
-
-### CSIR Stores — Inventory Management System
-**Sole engineer · Express 5 · MongoDB · Redis**
-
-An inventory and requisition platform for the Stores department of the CSIR, Ghana's Council for Scientific and Industrial Research. It covers requisitions and approvals, stock checkouts, goods-received notes, supplier and invoice handling, non-conformance reporting, and departmental reporting — served to two distinct portals over one API.
-
-I designed and built all of it: 24 data models, 22 API route modules, and 23 services. Authentication runs on WebAuthn passkeys and TOTP two-factor over HttpOnly sessions with CSRF protection. Uploads are virus-scanned through ClamAV, requests are rate-limited in Redis, and every mutation writes to a tamper-evident audit chain. The front end is a vanilla-JS progressive web app with offline support and no build step, which keeps deployment trivial on constrained infrastructure.
-
-Behind the API: idempotency middleware, request coalescing, tiered caching, query deduplication and profiling, and server-sent events for live updates. Schema changes ship as 16 numbered migrations, each with a dry-run and a rollback path. Quality is enforced by 31 test suites, Playwright end-to-end runs with axe accessibility checks, a coverage floor in CI, gitleaks secret scanning, and documented OWASP ZAP penetration scans.
-
-
-
-> **📖 Full engineering case study** — the offline-write idempotency design, the audit hash-chain, and the caching tiers, with diagrams and the trade-offs I'd revisit: **[inventory-system-case-study](https://github.com/KelvinANketia/inventory-system-case-study)**
-
-### Enterprise Human Resource Management Platform
-**Lead contributor, both repositories · Django 6 · DRF · React · TypeScript**
-
-An enterprise HR platform for a legal education institution, built by a team of eleven. I lead development on both halves — the Django API and the React front end.
-
-The API is Django 6 and Django REST Framework over PostgreSQL, with Celery and celery-beat for scheduled work and a Kafka producer driven by an outbox pattern for reliable event publishing. It spans 27 domain applications including payroll, recruitment and applicant tracking, interviews, attendance, leave, performance, learning, compliance and audit. Payslips, contracts and org-chart exports render through WeasyPrint and ReportLab; payroll and analytics export to XLSX via openpyxl.
-
-The front end is a Turborepo and pnpm monorepo — two applications over nine shared internal packages for UI, auth, the API client, hooks and types. React and TypeScript on Vite, with TanStack Query for server state, Zustand for client state, react-hook-form and Zod for validation, and Tailwind for styling.
-
-Both repositories run SonarQube and Trivy image scanning in CI, with Ruff and pytest on the API, Vitest, Testing Library and Playwright on the front end, and Husky, lint-staged and commitlint on the way in. Dependencies are pinned with the reasoning written inline — a Django floor that excludes a QuerySet SQL-injection advisory, a Pillow floor that excludes a decompression-bomb fix.
-
-### Identity & Access Management and the Wider Service Estate
-**Core contributor · Django · Celery**
-
-The central identity and access management service for an estate of roughly 100 repositories. Alongside it I've worked across the surrounding services — communications, payments, API integration and the Kubernetes platform tooling — which is where I've learned how systems behave once they're distributed across teams rather than owned by one.
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 **Languages**
