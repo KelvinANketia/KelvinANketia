@@ -19,13 +19,7 @@
 
 > *"Ever learning — ever growing."*
 
-Full stack engineer in Accra, Ghana. I build line-of-business systems end to end — Django/DRF and Node/Express services, React and TypeScript front ends, and the Docker, CI and test tooling that keeps them shippable.
-
-Most of my work is in private client and employer repositories, so this page describes the systems rather than linking to source. Recent work includes an inventory and requisition platform I designed and built single-handed for a national research institute, and an enterprise HR platform where I'm the leading contributor on both the API and the front end.
-
-I care about the parts that show up after launch — migrations that can be rolled back, audit trails that hold up, dependencies pinned for a reason, and tests that catch the regression before the client does.
-
-I also work with AI coding agents as a normal part of delivery: agent context and project standards live in the repository (`AGENTS.md`, `CLAUDE.md`, project skill files) so agents and teammates build from the same brief — and the engineer stays accountable for the result.
+Full stack engineer in Accra, Ghana. 
 
 <br/>
 
